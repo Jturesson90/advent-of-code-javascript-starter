@@ -1,4 +1,5 @@
 const solve = () => {
+    console.log('')
     return 3
 }
 
