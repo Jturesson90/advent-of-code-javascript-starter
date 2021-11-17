@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of code 2021 in with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jesper Turesson",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
