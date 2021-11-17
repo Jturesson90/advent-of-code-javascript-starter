@@ -1,0 +1,5 @@
+*.js
+.cache
+node_modules
+*.css
+*.svg
