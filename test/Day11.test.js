@@ -1,9 +1,8 @@
-import { puzzleA, puzzleB } from '../src/days/Day01'
+import { puzzleA, puzzleB } from '../src/days/Day11'
 import { getPuzzleInputText } from '../src/puzzleInputs'
 
-const day = '01'
-
-test('day01 puzzle a', () => {
+const day = '11'
+test('day11 puzzle a', () => {
     // Arrange
     const expected = '2'
     const puzzleInput = getPuzzleInputText(day)
@@ -13,7 +12,7 @@ test('day01 puzzle a', () => {
     // Assert
     expect(result).toBe(expected)
 })
-test('day01 puzzle b', () => {
+test('day11 puzzle b', () => {
     // Arrange
     const expected = '2'
     const puzzleInput = getPuzzleInputText(day)
