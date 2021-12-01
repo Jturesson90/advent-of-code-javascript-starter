@@ -28,7 +28,7 @@ function getFilePath(day, example) {
         dayString = `0${dayString}`
     }
     if (dayString.length == 2) {
-        return `day${dayString}/puzzleInput${example && example > 0 ? `_example_${day}` : ''}.txt`
+        return `day${dayString}/puzzleInput${example && example > 0 ? `_example_${example}` : ''}.txt`
     }
     return null
 }
