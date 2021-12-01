@@ -8,7 +8,7 @@ This starter pack for Advent of Code is using Test-driven development using Jest
 -   Clone the repo
 -   Install [Node.js](https://nodejs.org/en/) if needed
 -   Run command `npm install` to install packages
--   Run tests with `npm run test` or using [Jest Test Explorer](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer)
+-   Run tests with `npm run test` or using [Jest Test Explorer](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 -   Happy coding
 
 ## Use
