@@ -12,3 +12,5 @@ export const factorial = (num, cache = {}) => {
     else if (cache[num] !== undefined) return cache[num]
     return (cache[num] = num * factorial(num - 1, cache))
 }
+
+export const manhattanDistance = (x1, y1, x2, y2) => Math.abs(x2 - x1) + Math.abs(y2 - y1)
